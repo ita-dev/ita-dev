@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ita-dev
--       Sou mais um dev explorando mais a parte da programação!!
+-       Sou mais um dev explorando mais o mundo da programação!!
 - 👀 I’m interested in ...
 -       Html, Css, Js dentre outros
 - 🌱 I’m currently learning ...
